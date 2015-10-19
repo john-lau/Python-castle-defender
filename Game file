@@ -39,7 +39,7 @@ badguyimg1 = pygame.image.load("resources/images/badguy.png")
 badguyimg=badguyimg1
 healthbar = pygame.image.load("resources/images/healthbar.png")
 health = pygame.image.load("resources/images/health.png")
-gameover = pygame.image.load("resources/images/health.png")
+gameover = pygame.image.load("resources/images/gameover.png")
 youwin = pygame.image.load("resources/images/youwin.png")
 
 #4
